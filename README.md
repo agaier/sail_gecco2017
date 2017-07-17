@@ -1,5 +1,9 @@
 # sail_gecco2017
-source code for "Feature Space Modeling Through Surrogate Illumination"
+source code for experiments in "Data-Efficient Exploration, Optimization, and Modeling of Diverse Designs through Surrogate-Assisted Illumination" presented at GECCO 2017. 
+
+https://scholar.google.com/scholar?cluster=5948437257089311286&hl=en&as_sdt=0,5
+
+
 
 'help sail' for contents of source code and main algorithm syntax
 
